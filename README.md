@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.etsystatic.com/46290572/r/il/e16f64/5542186723/il_570xN.5542186723_ais1.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FrJ&label=Profile%20views&color=0e75b6&style=flat" alt="FrJ" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
