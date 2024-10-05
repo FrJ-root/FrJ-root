@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FrJ&label=Profile%20views&color=0e75b6&style=flat" alt="FrJ" /> </p>
 
-<p align="left"> <a href="https://web.facebook.com/profile.php?id=100066222382226" target="blank"><img src="https://img.shields.io/facebook/follow/Fàrâj Øf-āllāh?logo=twitter&style=for-the-badge" alt="FrJ"  </p>
+<p align="left"> <a href="https://web.facebook.com/profile.php?id=100066222382226" target="blank"><img src="https://img.shields.io/facebook/follow/Fàrâj Øf-āllāh?logo=twitter&style=for-the-badge" alt="Fàrâj Øf-āllāh"  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
