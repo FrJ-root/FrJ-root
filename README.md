@@ -1,26 +1,26 @@
 [![MasterHead](https://cdn.defenseone.com/media/img/cd/2020/10/29/iStock-879913090/route-fifty-lead-image.jpg?1627411361)](https://FrJ-root.io)
 <h1 align="center">Hi 👋, I'm FrJ</h1>
 <h3 align="center">A Military Agent FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://fortune.com/img-assets/wp-content/uploads/2015/10/gettyimages-537890891.jpg?w=1440&q=75">
+<img align="right" alt="Coding" width="500" src="https://fortune.com/img-assets/wp-content/uploads/2015/10/gettyimages-537890891.jpg?w=1440&q=75">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FrJ&label=Profile%20views&color=0e75b6&style=flat" alt="FrJ" /> </p>
 
 - 🔭 I’m currently working on **JoyDocker App**
 
-- 🌱 I’m currently learning **Cyber_SOC**
+- 🌱 I’m currently learning **Analyst SOC**
 
 - 👯 I’m looking to collaborate on **EnigmaEvil**
 
-- 👨‍💻 All of my projects are available at [www.aboutme.com](www.aboutme.com)
+- 👨‍💻 All of my projects are available at [www.wokwi.com](https://wokwi.com/)
 
-- 📝 I regularly write articles on [https://link.springernature.com/home/](www.springernature.com)
+- 📝 I regularly write articles on [www.springernature.com](https://www.springernature.com/gp/open-science/about)
 
 - 💬 Ask me about **Analytics, React**
 
 - 📫 How to reach me **frj.mitnick@gmail.com**
 
-- 📄 Know about my experiences [www.aboutme.com](www.aboutme.com)
+- 📄 Know about my experiences [www.about.me.com](https://about.me/)
 
 - ⚡ Fun fact **It's not a fun fact cs I'm not fun, I'm complicated**
 
