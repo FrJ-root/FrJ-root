@@ -12,17 +12,17 @@
 
 - 👯 I’m looking to collaborate on **EnigmaEvil**
 
-- 👨‍💻 All of my projects are available at [www.wokwi.com](https://wokwi.com/)
-
-- 📝 I regularly write articles on [www.springernature.com](https://www.springernature.com/gp/open-science/about)
-
 - 💬 Ask me about **Analytics, React**
 
 - 📫 How to reach me **frj.mitnick@gmail.com**
 
 - 📄 Know about my experiences [www.about.me.com](https://about.me/)
 
-- ⚡ Fun fact **It's not a fun fact cs I'm not fun, I'm complicated**
+- 👨‍💻 All of my projects are available at [www.wokwi.com](https://wokwi.com/)
+
+- 📝 I regularly write articles on [www.springernature.com](https://www.springernature.com/gp/open-science/about)
+
+- ⚡ **It' s complicated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
