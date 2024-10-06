@@ -1,6 +1,7 @@
 [![MasterHead](https://cdn.defenseone.com/media/img/cd/2020/10/29/iStock-879913090/route-fifty-lead-image.jpg?1627411361)](https://FrJ-root.io)
 <h1 align="center">Hi 👋, I'm FrJ</h1>
-<h3 align="center">A Military Agent FullStack Developer</h3>
+<h3 align="center">A Military Agent FullStack Developer🎖️</h3>
+<h3 align="center">&& Analyst cyber SOC Enginner👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/2/3/4/0/2450432_4b05f.gif">
 
 
