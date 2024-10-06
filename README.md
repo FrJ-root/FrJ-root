@@ -40,7 +40,7 @@
 
 <h3 align="left">FrJ's GitHub activity graph:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrJ-root&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrJ" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrJ-root&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrJ" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrJ-root&show_icons=true&locale=en&theme=tokyonight" alt="FrJ" /></p>
 
