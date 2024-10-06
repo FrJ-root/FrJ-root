@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/frj___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frj___" height="30" width="40" /></a>
+<a href="https://x.com/frj___" target="blank"><img align="center" src="https://i.etsystatic.com/7628211/r/il/bf5665/5167793793/il_570xN.5167793793_f4yw.jpg" alt="frj___" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abderrahmane-ouabderzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmane-ouabderzaq" height="30" width="40" /></a>
 <a href="https://kaggle.com/frjallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="frjallah" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100066222382226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fàrâj øf-āllāh" height="30" width="40" /></a>
