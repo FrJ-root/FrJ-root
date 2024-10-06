@@ -31,6 +31,8 @@
 <a href="https://kaggle.com/frjallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="frjallah" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100066222382226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fàrâj øf-āllāh" height="30" width="40" /></a>
 <a href="https://instagram.com/_faraj__al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_faraj__al" height="30" width="40" /></a>
+<a href="https://app.maltego.com/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1807769274666090496/ysbXfws__400x400.png" alt="frj___" height="30" width="40" /></a>
+<a href="https://ngrok.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsq4cgwbk8LnDEEXcIrTBaOorE5pyt8aeYdg0nf-LqTGF7ShQxagTAOj81PUSbA95GF0&usqp=CAU" alt="FrJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
