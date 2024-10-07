@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FrJ&label=Profile%20views&color=0e75b6&style=flat" alt="FrJ" /> </p>
+<p align="left"> <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="FrJ" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/><img src="https://komarev.com/ghpvc/?username=FrJ&label=Profile%20views&color=0e75b6&style=flat" alt="FrJ" /> </p>
 
 - 🔭 I’m currently working on **JoyDocker App**
 
