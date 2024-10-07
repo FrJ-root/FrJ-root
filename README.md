@@ -36,8 +36,6 @@
 
 <h3 align="left"><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="FrJ" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/>FrJ's GitHub activity graph:</h3>
 
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FrJ-root&show_icons=true&locale=en" alt="FrJ-root" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FrJ-root&" alt="FrJ-root" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrJ-root&show_icons=true&locale=en&layout=compact" alt="FrJ-root" /></p>
