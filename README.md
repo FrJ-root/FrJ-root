@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [www.springernature.com](https://www.springernature.com/gp/open-science/about)
 
-- ⚡ **It' s complicated**
+- 🖤 **It' s complicated**
 
 <h3 align="left"><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="FrJ" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/>Connect with me:</h3>
 
