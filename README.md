@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **Analyst SOC**  
 - 👯 I'm looking to collaborate on **EnigmaEvil**  
 - 💬 Ask me about **Analytics, React**  
-- 📫 How to reach me **frj.mitnick@gmail.com**  
+- 📫 How to reach me **abdo.ouabderzaq@gmail.com**  
 - 📄 Know about my experiences [www.about.me.com](https://about.me/)  
 - 👨‍💻 All of my projects are available at [www.wokwi.com](https://wokwi.com/)  
 - 📝 I regularly write articles on [www.springernature.com](https://www.springernature.com/gp/open-science/about)  
