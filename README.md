@@ -1,16 +1,16 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=200&section=header&text=FrJ&fontSize=80&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Military%20Agent%20|%20FullStack%20Developer%20|%20SOC%20Analyst&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=200&section=header&text=FrJ&fontSize=80&fontColor=800020&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20|%20SOC%20Analyst&descAlignY=55&descSize=18"/>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Cybersecurity+Enthusiast+%7C+Ethical+Hacker;%F0%9F%9B%A1%EF%B8%8F+SOC+Analyst+%7C+Threat+Hunter;%F0%9F%92%BB+Full+Stack+Developer+%7C+DevSecOps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=800020&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Cybersecurity+Enthusiast+%7C+Ethical+Hacker;%F0%9F%9B%A1%EF%B8%8F+SOC+Analyst+%7C+Threat+Hunter;%F0%9F%92%BB+Full+Stack+Developer+%7C+DevSecOps" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FrJ-root&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FrJ-root?label=Followers&style=for-the-badge&color=00ff00&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/FrJ-root?label=Stars&style=for-the-badge&color=00ff00&labelColor=0d1117" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=FrJ-root&label=Profile%20Views&color=800020&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/FrJ-root?label=Followers&style=for-the-badge&color=800020&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/FrJ-root?label=Stars&style=for-the-badge&color=800020&labelColor=0d1117" alt="Stars" />
 </p>
 
 <!-- Matrix-style divider -->
@@ -24,8 +24,7 @@
 ```yaml
 name: FrJ
 located_in: Morocco 🇲🇦
-current_role: Software Developer
-company: Defense Sector
+current_role: FullStack Developer & SOC Analyst
 
 fields_of_interests:
   [
@@ -135,23 +134,23 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
 
 <p align="center">
   <a href="https://github.com/FrJ-root">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrJ-root&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrJ-root&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrJ-root&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&icon_color=800020&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrJ-root&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&text_color=c9d1d9&langs_count=10"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrJ-root&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrJ-root&theme=dark&hide_border=true&background=0d1117&stroke=800020&ring=800020&fire=800020&currStreakLabel=800020"/>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrJ-root&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FrJ-root&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrJ-root&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrJ-root&bg_color=0d1117&color=800020&line=800020&point=ffffff&area=true&area_color=800020&hide_border=true"/>
 </p>
 
 <!-- Snake Animation -->
@@ -167,10 +166,10 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
 
 <p align="center">
   <a href="https://github.com/FrJ-root/JoyDocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrJ-root&repo=JoyDocker&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrJ-root&repo=JoyDocker&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&icon_color=800020"/>
   </a>
   <a href="https://github.com/FrJ-root/EnigmaEvil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrJ-root&repo=EnigmaEvil&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrJ-root&repo=EnigmaEvil&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&icon_color=800020"/>
   </a>
 </p>
 
@@ -181,14 +180,14 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Metrics & Insights**
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrJ-root&theme=chartreuse_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrJ-root&theme=chartreuse_dark&utcOffset=1"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrJ-root&theme=2077"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrJ-root&theme=2077&utcOffset=1"/>
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrJ-root&theme=chartreuse_dark"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrJ-root&theme=chartreuse_dark"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrJ-root&theme=chartreuse_dark"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrJ-root&theme=2077"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrJ-root&theme=2077"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrJ-root&theme=2077"/>
 </p>
 
 <!-- Matrix-style divider -->
@@ -203,7 +202,7 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
 
 <!-- Spotify Section -->
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5lqnxz3t5z46nvjnlpnhkjmtu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff00"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5lqnxz3t5z46nvjnlpnhkjmtu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=800020"/>
 </p>
 
 <!-- Matrix-style divider -->
@@ -225,7 +224,7 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
 </p>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=120&section=footer"/>
 
 <!-- Visitors Counter -->
 <p align="center">
@@ -233,7 +232,7 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%22In+the+world+of+cyber%2C+be+the+hunter%2C+not+the+hunted.%22;Made+with+%E2%9D%A4%EF%B8%8F+by+FrJ"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=435&lines=%22In+the+world+of+cyber%2C+be+the+hunter%2C+not+the+hunted.%22;Made+with+%E2%9D%A4%EF%B8%8F+by+FrJ"/>
 </p>
 
 <!--
@@ -247,7 +246,7 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
   ║   ╚═╝     ╚═╝  ╚═╝ ╚════╝                                        ║
   ║                                                                   ║
   ║   💻 FullStack Developer | 🔐 Cybersecurity Specialist           ║
-  ║   🎖️ Military Agent | 🛡️ SOC Analyst                            ║
+  ║   🛡️ SOC Analyst | 🎯 Threat Hunter                              ║
   ║                                                                   ║
   ╚═══════════════════════════════════════════════════════════════════╝
 -->
