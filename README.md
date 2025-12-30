@@ -127,26 +127,45 @@ const FrJ = {
 <!-- Connect Section -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me**
 
-<p align="center">
-  <a href="https://linkedin.com/in/abderrahmane-ouabderzaq" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/frj___" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://kaggle.com/frjallah" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://web.facebook.com/profile.php?id=100066222382226" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/abde_oua/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:abdo.ouabderzaq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
+
+<!-- Social Links with SVG Style Icons -->
+<a href="https://linkedin.com/in/abderrahmane-ouabderzaq" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 10px"/>
+</a>
+<a href="https://x.com/frj___" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40" style="margin: 10px"/>
+</a>
+<a href="https://stackoverflow.com/users/31685838/frj" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" style="margin: 10px"/>
+</a>
+<a href="https://kaggle.com/frjallah" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" style="margin: 10px"/>
+</a>
+<a href="https://www.hackerrank.com/profile/FrJ_r01t" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" style="margin: 10px"/>
+</a>
+<a href="https://dev.to/frj_r01t" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV" height="40" width="40" style="margin: 10px"/>
+</a>
+<a href="https://web.facebook.com/profile.php?id=100066222382226" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" style="margin: 10px"/>
+</a>
+<a href="https://www.instagram.com/abde_oua/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 10px"/>
+</a>
+
+<br><br>
+
+<!-- Email & Portfolio Badges -->
+<a href="mailto:abdo.ouabderzaq@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-abdo.ouabderzaq@gmail.com-800020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://ouabderzaq.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-ouabderzaq.vercel.app-800020?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+</a>
+
+</div>
 
 <!-- Matrix-style divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
