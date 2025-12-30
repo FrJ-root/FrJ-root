@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=200&section=header&text=FrJ&fontSize=80&fontColor=800020&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20|%20SOC%20Analyst&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=200&section=header&text=FrJ&fontSize=80&fontColor=800020&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20|%20SOC%20Analyst%20|%20DevSecOps&descAlignY=55&descSize=18"/>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -24,7 +24,8 @@
 ```yaml
 name: FrJ
 located_in: Morocco 🇲🇦
-current_role: FullStack Developer & SOC Analyst
+current_role: Software Developer & SOC Analyst
+company: Tech Industry
 
 fields_of_interests:
   [
@@ -180,14 +181,14 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Metrics & Insights**
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrJ-root&theme=2077"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrJ-root&theme=2077&utcOffset=1"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrJ-root&theme=radical"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrJ-root&theme=radical&utcOffset=1"/>
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrJ-root&theme=2077"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrJ-root&theme=2077"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrJ-root&theme=2077"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrJ-root&theme=radical"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrJ-root&theme=radical"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrJ-root&theme=radical"/>
 </p>
 
 <!-- Matrix-style divider -->
@@ -246,7 +247,7 @@ fun_fact: "I debug code like I'm defusing a bomb 💣"
   ║   ╚═╝     ╚═╝  ╚═╝ ╚════╝                                        ║
   ║                                                                   ║
   ║   💻 FullStack Developer | 🔐 Cybersecurity Specialist           ║
-  ║   🛡️ SOC Analyst | 🎯 Threat Hunter                              ║
+  ║   🛡️ SOC Analyst | ⚡ DevSecOps Engineer                         ║
   ║                                                                   ║
   ╚═══════════════════════════════════════════════════════════════════╝
 -->
