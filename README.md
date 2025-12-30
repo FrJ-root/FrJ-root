@@ -17,45 +17,73 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
+<div align="center">
+  
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-```yaml
-name: FrJ
-located_in: Morocco 🇲🇦
-current_role: Software Developer & SOC Analyst
-company: Tech Industry
+</div>
 
-fields_of_interests:
-  [
-    "Cybersecurity",
-    "SOC Analysis",
-    "Threat Intelligence",
-    "Web Development",
-    "DevSecOps",
-    "Penetration Testing"
-  ]
-
-currently_working_on: "JoyDocker App"
-currently_learning: ["SOC Analysis", "SIEM Tools"]
-looking_to_collaborate: "EnigmaEvil"
-
-hobbies: ["CTF Challenges", "Bug Bounty", "Open Source"]
-fun_fact: "I debug code like I'm defusing a bomb 💣"
-```
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Quick Facts**
+<div align="left">
 
-| 🔭 Currently Working On | **JoyDocker App** |
-|:---|:---|
-| 🌱 Currently Learning | **SOC Analysis & Threat Hunting** |
-| 👯 Looking to Collaborate | **EnigmaEvil** |
-| 💬 Ask Me About | **Java, Spring Boot, Cybersecurity** |
-| 📫 Reach Me At | **abdo.ouabderzaq@gmail.com** |
-| ⚡ Fun Fact | **It's complicated 🖤** |
+```js
+const FrJ = {
+    pronouns: "He" | "Him",
+    location: "Morocco 🇲🇦",
+    currentRole: "Software Developer & SOC Analyst",
+    
+    skills: {
+        security: ["Penetration Testing", "SOC Analysis", 
+                   "Threat Intelligence", "SIEM"],
+        backend: ["Java", "Spring Boot", "Python", "Node.js"],
+        frontend: ["React", "Angular", "Vue.js", "TypeScript"],
+        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"]
+    },
+    
+    currentlyWorking: "JoyDocker App",
+    currentlyLearning: ["Advanced SOC Analysis", "SIEM Tools"],
+    lookingToCollaborate: "EnigmaEvil",
+    
+    funFact: "I debug code like I'm defusing a bomb 💣"
+};
+```
+
+</div>
+
+<br clear="both">
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Quick Overview
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/🔭_Working_On-JoyDocker_App-800020?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/🌱_Learning-SOC_Analysis_&_SIEM-800020?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/👯_Collaborate-EnigmaEvil-800020?style=for-the-badge&labelColor=0d1117"/>
+
+</td>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/💬_Ask_About-Java_|_Spring_Boot-800020?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/📫_Contact-abdo.ouabderzaq@gmail.com-800020?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/⚡_Fun_Fact-It's_Complicated_🖤-800020?style=for-the-badge&labelColor=0d1117"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Matrix-style divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
