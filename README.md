@@ -117,7 +117,10 @@ const FrJ = {
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=800020&center=true&vCenter=true&width=435&lines=⚡+Fun+Fact:+It's+complicated+🖤;💣+I+debug+code+like+defusing+a+bomb" alt="Fun Fact" />
+<blockquote align="center" style="color:#800020;font-size:1.1em;">
+  <b>⚡ Fun Fact:</b> <i>It's complicated 🖤</i><br>
+  <b>💣 Debug style:</b> <i>I debug code like I'm defusing a bomb</i>
+</blockquote>
 
 </div>
 
