@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=200&section=header&text=FrJ&fontSize=80&fontColor=800020&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20%7C%20SOC%20Analyst%20%7C%20DevSecOps&descAlignY=55&descSize=20&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=200&section=header&text=FrJ&fontSize=80&fontColor=800020&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20|%20SOC%20Analyst%20|%20DevSecOps&descAlignY=55&descSize=18"/>
 
 <!-- Typing SVG -->
 <p align="center">
