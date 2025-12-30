@@ -213,10 +213,6 @@ const FrJ = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrJ-root&theme=dark&hide_border=true&background=0d1117&stroke=800020&ring=800020&fire=800020&currStreakLabel=800020"/>
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrJ-root&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
