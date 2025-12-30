@@ -24,7 +24,7 @@
 ```yaml
 name: FrJ
 located_in: Morocco 🇲🇦
-current_role: Military Agent & FullStack Developer
+current_role: Software Developer
 company: Defense Sector
 
 fields_of_interests:
@@ -38,7 +38,7 @@ fields_of_interests:
   ]
 
 currently_working_on: "JoyDocker App"
-currently_learning: ["SOC Analysis", "Threat Hunting", "SIEM Tools"]
+currently_learning: ["SOC Analysis", "SIEM Tools"]
 looking_to_collaborate: "EnigmaEvil"
 
 hobbies: ["CTF Challenges", "Bug Bounty", "Open Source"]
