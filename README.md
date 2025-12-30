@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=800020&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Cybersecurity+Enthusiast+%7C+Ethical+Hacker;%F0%9F%9B%A1%EF%B8%8F+SOC+Analyst+%7C+Threat+Hunter;%F0%9F%92%BB+Full+Stack+Developer+%7C+DevSecOps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=800020&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%94%90+Cybersecurity+Enthusiast+%7C+Ethical+Hacker;%F0%9F%9B%A1%EF%B8%8F+SOC+Analyst+%7C+Threat+Hunter;%F0%9F%92%BB+Full+Stack+Developer+%7C+DevSecOps" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Views & Followers -->
