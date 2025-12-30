@@ -1,30 +1,88 @@
-[![MasterHead](https://cdn.defenseone.com/media/img/cd/2020/10/29/iStock-879913090/route-fifty-lead-image.jpg?1627411361)](https://FrJ-root.io)
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff00; text-shadow: 0 0 10px #00ff00;">Hi 👋, I'm FrJ</h1>
-<h3 align="center" style="color: #4d4dff;">A Military Agent FullStack Developer🎖️</h3>
-<h3 align="center" style="color: #4d4dff;">&& Analyst cyber SOC Enginner👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif" style="border-radius: 20px; box-shadow: 0 0 20px #00ff00;">
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=200&section=header&text=FrJ&fontSize=80&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Military%20Agent%20|%20FullStack%20Developer%20|%20SOC%20Analyst&descAlignY=55&descSize=18"/>
 
-<div style="background-color: #0d1117; padding: 15px; border-radius: 10px; border-left: 5px solid #00ff00;">
-<p align="left"> <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="FrJ" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/><img src="https://profile-counter.glitch.me/FrJ-root/count.svg?" alt="FrJ" /> </p>
-
-- 🔭 I'm currently working on **JoyDocker App**  
-- 🌱 I'm currently learning **Analyst SOC**  
-- 👯 I'm looking to collaborate on **EnigmaEvil**  
-- 💬 Ask me about **Analytics, React**  
-- 📫 How to reach me **abdo.ouabderzaq@gmail.com**  
-- 📄 Know about my experiences [www.about.me.com](https://about.me/)  
-- 👨‍💻 All of my projects are available at [www.wokwi.com](https://wokwi.com/)  
-- 📝 I regularly write articles on [www.springernature.com](https://www.springernature.com/gp/open-science/about)  
-- 🖤 **It' s complicated**  
-</div>
-
-<h3 align="left" style="border-bottom: 2px solid #00ff00; padding-bottom: 5px; display: inline-block;"><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="FrJ" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/>Connect with me:</h3>
-
-<div style="background-color: #0d1117; padding: 15px; border-radius: 10px; margin-top: 10px;">
-<p align="left">
-<a href="https://x.com/frj___" target="blank"><img align="center" src="https://i.etsystatic.com/7628211/r/il/bf5665/5167793793/il_570xN.5167793793_f4yw.jpg" alt="frj___" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ff00);" /></a> <a href="https://linkedin.com/in/abderrahmane-ouabderzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmane-ouabderzaq" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ff00);" /></a> <a href="https://kaggle.com/frjallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="frjallah" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ff00);" /></a> <a href="https://web.facebook.com/profile.php?id=100066222382226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fàrâj øf-āllāh" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ff00);" /></a> <a href="https://instagram.com/_faraj__al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_faraj__al" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ff00);" /></a> <a href="https://app.maltego.com/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1807769274666090496/ysbXfws__400x400.png" alt="frj___" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ff00);" /></a> <a href="https://ngrok.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsq4cgwbk8LnDEEXcIrTBaOorE5pyt8aeYdg0nf-LqTGF7ShQxagTAOj81PUSbA95GF0&usqp=CAU" alt="FrJ" height="30" width="40" style="filter: drop-shadow(0 0 5px #00ff00);" /></a>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Cybersecurity+Enthusiast+%7C+Ethical+Hacker;%F0%9F%9B%A1%EF%B8%8F+SOC+Analyst+%7C+Threat+Hunter;%F0%9F%92%BB+Full+Stack+Developer+%7C+DevSecOps" alt="Typing SVG" /></a>
 </p>
-</div>
+
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FrJ-root&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/FrJ-root?label=Followers&style=for-the-badge&color=00ff00&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/FrJ-root?label=Stars&style=for-the-badge&color=00ff00&labelColor=0d1117" alt="Stars" />
+</p>
+
+<!-- Matrix-style divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+
+```yaml
+name: FrJ
+located_in: Morocco 🇲🇦
+current_role: Military Agent & FullStack Developer
+company: Defense Sector
+
+fields_of_interests:
+  [
+    "Cybersecurity",
+    "SOC Analysis",
+    "Threat Intelligence",
+    "Web Development",
+    "DevSecOps",
+    "Penetration Testing"
+  ]
+
+currently_working_on: "JoyDocker App"
+currently_learning: ["SOC Analysis", "Threat Hunting", "SIEM Tools"]
+looking_to_collaborate: "EnigmaEvil"
+
+hobbies: ["CTF Challenges", "Bug Bounty", "Open Source"]
+fun_fact: "I debug code like I'm defusing a bomb 💣"
+```
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Quick Facts**
+
+| 🔭 Currently Working On | **JoyDocker App** |
+|:---|:---|
+| 🌱 Currently Learning | **SOC Analysis & Threat Hunting** |
+| 👯 Looking to Collaborate | **EnigmaEvil** |
+| 💬 Ask Me About | **Java, Spring Boot, Cybersecurity** |
+| 📫 Reach Me At | **abdo.ouabderzaq@gmail.com** |
+| ⚡ Fun Fact | **It's complicated 🖤** |
+
+<!-- Matrix-style divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me**
+
+<p align="center">
+  <a href="https://linkedin.com/in/abderrahmane-ouabderzaq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/frj___" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://kaggle.com/frjallah" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100066222382226" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/_faraj__al" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:abdo.ouabderzaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 <h3 align="left" style="border-bottom: 2px solid #00ff00; padding-bottom: 5px; display: inline-block;"><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="FrJ" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/>Languages and Tools:</h3>
 
