@@ -210,13 +210,6 @@ const FrJ = {
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> **GitHub Analytics**
 
 <p align="center">
-  <a href="https://github.com/FrJ-root">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrJ-root&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&icon_color=800020&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrJ-root&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&text_color=c9d1d9&langs_count=10"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrJ-root&theme=dark&hide_border=true&background=0d1117&stroke=800020&ring=800020&fire=800020&currStreakLabel=800020"/>
 </p>
 
