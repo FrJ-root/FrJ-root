@@ -13,6 +13,28 @@
   <img src="https://img.shields.io/github/stars/FrJ-root?label=Stars&style=for-the-badge&color=800020&labelColor=0d1117" alt="Stars" />
 </p>
 
+<!-- Portfolio CTA Section -->
+<div align="center">
+  
+  <a href="https://ouabderzaq.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-ouabderzaq.vercel.app-800020?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="Portfolio" height="35"/>
+  </a>
+  
+  <br><br>
+  
+  <a href="https://ouabderzaq.vercel.app" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=🚀%20Explore%20My%20Work%20→&fontSize=24&fontColor=800020&animation=twinkling"/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=🚀%20Explore%20My%20Work%20→&fontSize=24&fontColor=800020&animation=twinkling"/>
+    </picture>
+  </a>
+  
+  <p>
+    <sub>✨ <i>Check out my projects, skills, and professional journey</i> ✨</sub>
+  </p>
+  
+</div>
+
 <!-- Matrix-style divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -60,28 +82,42 @@ const FrJ = {
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Quick Overview
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
+
+<table border="0">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/🔭_Working_On-JoyDocker_App-800020?style=for-the-badge&labelColor=0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=800020&height=40&section=header&text=🎯%20CURRENTLY&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://img.shields.io/badge/🌱_Learning-SOC_Analysis_&_SIEM-800020?style=for-the-badge&labelColor=0d1117"/>
+<br>
 
-<img src="https://img.shields.io/badge/👯_Collaborate-EnigmaEvil-800020?style=for-the-badge&labelColor=0d1117"/>
+<a href="#"><img src="https://img.shields.io/badge/🔭_Working_On-JoyDocker_App-800020?style=flat-square&labelColor=0d1117" height="28"/></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/🌱_Learning-SOC_Analysis_&_SIEM-800020?style=flat-square&labelColor=0d1117" height="28"/></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/👯_Collaborate-EnigmaEvil-800020?style=flat-square&labelColor=0d1117" height="28"/></a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/💬_Ask_About-Java_|_Spring_Boot-800020?style=for-the-badge&labelColor=0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=800020&height=40&section=header&text=💡%20CONNECT&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://img.shields.io/badge/📫_Contact-abdo.ouabderzaq@gmail.com-800020?style=for-the-badge&labelColor=0d1117"/>
+<br>
 
-<img src="https://img.shields.io/badge/⚡_Fun_Fact-It's_Complicated_🖤-800020?style=for-the-badge&labelColor=0d1117"/>
+<a href="#"><img src="https://img.shields.io/badge/💬_Ask_About-Java_|_Spring_Boot-800020?style=flat-square&labelColor=0d1117" height="28"/></a>
+<br>
+<a href="mailto:abdo.ouabderzaq@gmail.com"><img src="https://img.shields.io/badge/📫_Email-abdo.ouabderzaq@gmail.com-800020?style=flat-square&labelColor=0d1117" height="28"/></a>
+<br>
+<a href="https://ouabderzaq.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-ouabderzaq.vercel.app-800020?style=flat-square&labelColor=0d1117" height="28"/></a>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=800020&center=true&vCenter=true&width=435&lines=⚡+Fun+Fact:+It's+complicated+🖤;💣+I+debug+code+like+defusing+a+bomb" alt="Fun Fact" />
 
 </div>
 
@@ -104,7 +140,7 @@ const FrJ = {
   <a href="https://web.facebook.com/profile.php?id=100066222382226" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/_faraj__al" target="_blank">
+  <a href="https://www.instagram.com/abde_oua/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:abdo.ouabderzaq@gmail.com">
