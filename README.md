@@ -271,14 +271,26 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Quote Section -->
+<!-- Philosophy Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Hacker's Wisdom**
+## **`> cat /etc/philosophy`** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear.&author=Kali%20Linux"/>
-</p>
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  $ No noise. No warnings.                            │
+│  │ Just code and precision.                          │
+│  │ I see patterns in chaos.                          │
+│  │ I see doors where others see walls.               │
+│  │ Access isn't given — it's taken.                  │
+│  │ And I always escalate.                            │
+│                                                      │
+│  signed:                                             │
+│  FrJ-root                                            │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 <!-- Spotify -->
 <p align="center">
