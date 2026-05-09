@@ -200,6 +200,13 @@
 
 ## **`└─$ ls -la /opt/projects/`**
 
+```bash
+drwxr-xr-x  frj  root  4096  May 09 18:00  .
+drwxr-xr-x  frj  root  4096  May 09 18:00  ..
+drwxr-xr-x  frj  root  4096  May 09 17:42  JoyDocker/        # 🐳 Docker Management App
+drwxr-xr-x  frj  root  4096  May 09 16:30  EnigmaEvil/       # 🔐 Cybersecurity Toolkit
+```
+
 <p align="center">
   <a href="https://github.com/FrJ-root/JoyDocker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrJ-root&repo=JoyDocker&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&icon_color=800020"/>
