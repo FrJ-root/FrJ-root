@@ -318,6 +318,14 @@ drwxr-xr-x  frj  root  4096  May 09 16:30  EnigmaEvil/       # 🔐 Cybersecurit
 
 ## **`└─$ sudo ./support.sh`**
 
+```bash
+[sudo] password for frj: ********
+[*] Initializing support channels...
+[✓] Loading payment gateways...
+[✓] Decrypting wallet addresses...
+[+] All channels active — pick your attack vector:
+```
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/frj">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
