@@ -1,16 +1,16 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=220&section=header&text=FrJ&fontSize=90&fontColor=800020&animation=fadeIn&fontAlignY=30&desc=SOC%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20DevSecOps&descAlignY=52&descSize=20&descColor=c0c0c0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=220&section=header&text=%24%20./FrJ&fontSize=90&fontColor=800020&animation=fadeIn&fontAlignY=30&desc=%5Broot%40kali%5D%20~%20SOC%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20DevSecOps&descAlignY=52&descSize=18&descColor=c0c0c0"/>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=800020&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+SOC+Analyst+%7C+Threat+Hunter+%7C+Incident+Responder;%F0%9F%94%90+Penetration+Tester+%7C+Vulnerability+Assessment;%F0%9F%92%BB+Java+%2F+Spring+Boot+%7C+Angular+%7C+DevSecOps+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=800020&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%5Bfrj%40soc%5D%24+Threat+Hunting+%7C+Incident+Response+%7C+SIEM;%5Bfrj%40pentest%5D%24+Vulnerability+Assessment+%7C+Red+Team+Ops;%5Bfrj%40dev%5D%24+Java+%2F+Spring+Boot+%7C+Angular+%7C+DevSecOps" alt="Typing SVG" /></a>
 </p>
 
 <!-- Badges Row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FrJ-root&label=PROFILE+VIEWS&color=800020&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FrJ-root?label=Followers&style=for-the-badge&color=800020&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/FrJ-root?label=Stars&style=for-the-badge&color=800020&labelColor=0d1117" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=FrJ-root&label=TARGET+VIEWS&color=800020&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/FrJ-root?label=Agents&style=for-the-badge&color=800020&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/FrJ-root?label=Exploits&style=for-the-badge&color=800020&labelColor=0d1117" alt="Stars" />
 </p>
 
 <!-- CTA Links -->
@@ -30,7 +30,7 @@
 <!-- About Me Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **`> whoami`**
+## **`┌──(root㉿kali)-[~] > whoami`**
 
 </div>
 
@@ -79,7 +79,7 @@
 <!-- Certifications Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3orifb9GcyGZ8ClIuk/giphy.gif" width="30"> **Certifications**
+## **`└─$ cat /opt/certs/oracle.log`**
 
 <br>
 
@@ -97,7 +97,9 @@
 
 <br><br>
 
-<sub>✦ Verified Oracle certifications in Java development and Cloud Infrastructure ✦</sub>
+```
+[✓] STATUS: VERIFIED — Oracle Certified in Java Development & Cloud Infrastructure
+```
 
 </div>
 
@@ -107,9 +109,11 @@
 <!-- Tech Stack Section -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Arsenal**
+## **`└─$ nmap -sV --script=arsenal 127.0.0.1`**
 
-### 🔐 Security & SOC Toolkit
+<br>
+
+### `PORT 443/tcp — 🔐 Security & SOC Toolkit`
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
@@ -122,7 +126,7 @@
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
 
-### ☕ Java Ecosystem
+### `PORT 8080/tcp — ☕ Java Ecosystem`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&theme=dark" />
 </p>
@@ -134,7 +138,7 @@
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </p>
 
-### 🅰️ Angular & Frontend
+### `PORT 4200/tcp — 🅰️ Angular & Frontend`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,html,css,sass&theme=dark" />
 </p>
@@ -145,17 +149,17 @@
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### `PORT 22/tcp — ☁️ Cloud & DevOps`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,terraform&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### `PORT 5432/tcp — 🗄️ Databases`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
 </p>
 
-### 🛠️ Tools
+### `PORT 80/tcp — 🛠️ Tools & Platforms`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,idea,vscode,postman,grafana&theme=dark" />
 </p>
@@ -168,7 +172,7 @@
 <!-- GitHub Stats Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> **GitHub Analytics**
+## **`└─$ git log --oneline --graph --all`**
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FrJ-root&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=800020&icon_color=800020&text_color=c0c0c0&ring_color=800020"/>
@@ -194,7 +198,7 @@
 <!-- Featured Projects Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Featured Projects**
+## **`└─$ ls -la /opt/projects/`**
 
 <p align="center">
   <a href="https://github.com/FrJ-root/JoyDocker">
@@ -213,7 +217,7 @@
 <!-- Metrics & Insights -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Metrics & Insights**
+## **`└─$ cat /var/log/metrics.log`**
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrJ-root&theme=radical"/>
@@ -234,7 +238,7 @@
 <!-- Connect Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me**
+## **`└─$ netstat -an | grep ESTABLISHED`**
 
 <p align="center">
   <a href="https://frj-root.github.io/myTreeLinks/" target="_blank">
@@ -274,7 +278,7 @@
 <!-- Philosophy Section -->
 <div align="center">
 
-## **`> cat /etc/philosophy`** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30">
+## **`└─$ cat /etc/philosophy`**
 
 ```
 ┌──────────────────────────────────────────────────────┐
@@ -305,7 +309,7 @@
 <!-- Support Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> **Support My Work**
+## **`└─$ sudo ./support.sh`**
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/frj">
@@ -325,7 +329,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:800020,100:0d1117&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=500&lines=%E2%80%9CIn+the+world+of+cyber%2C+be+the+hunter%2C+not+the+hunted.%E2%80%9D;Made+with+%E2%9D%A4%EF%B8%8F+by+FrJ"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=500&lines=%5Bfrj%40kali%5D%24+%22In+the+world+of+cyber%2C+be+the+hunter%2C+not+the+hunted.%22;%5Bfrj%40kali%5D%24+exit+0+—+Made+with+%E2%9D%A4%EF%B8%8F+by+FrJ"/>
 </p>
 
 <!--
